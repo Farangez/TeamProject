@@ -42,14 +42,7 @@ public class Book{
             }
 
 
-
-
-
-
-
-
-
-            return null;
+            return result;
         }
 
         /**
