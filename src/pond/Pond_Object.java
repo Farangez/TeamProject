@@ -8,7 +8,12 @@ public class Pond_Object {
 
         System.out.println(pond1);
 
-        Water bigLake = new Water("Dirty");
+        Water water1 = new Water("Dirty");
+        Water water2 = new Water("Normal");
+        Pond pond3 = null;
+        pond3.lake= water1;
+
+
 
 
        // Pond pond2 = pond1;
