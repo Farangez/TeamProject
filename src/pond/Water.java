@@ -7,5 +7,10 @@ public class Water {
         this.color = color;
     }
 
-
+    @Override
+    public String toString() {
+        return "Water{" +
+                "color='" + color + '\'' +
+                '}';
+    }
 }
